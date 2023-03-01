@@ -1,4 +1,4 @@
-## OI! Eu sou o Emerson. 
+## Oi! Eu sou o Emerson. 
 
 <div align="center">
   <a href="https://github.com/emersonjfs">
