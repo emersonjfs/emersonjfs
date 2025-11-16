@@ -1,4 +1,4 @@
-## Oi! Eu sou o Emerson. 
+## Oi! Eu sou o Emerson, e sou da Terra!. 
 
 <div align="center">
   <a href="https://github.com/emersonjfs">
